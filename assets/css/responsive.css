@@ -1,0 +1,27 @@
+@media screen and (max-width: 768px) {
+	/*
+	BLOCK-LOGO
+	*/
+	.block-logo{text-align:center;width:100%;margin-bottom:0;}
+
+	/*
+	BLOCK-OFFERS
+	*/
+	.block-offer .offer-arrow{display:none;}
+
+	/*
+	BLOCK-OFFER
+	*/
+	.block-offer{margin-top:0;margin-bottom: 60px;}
+	.block-offer .offer-product{margin-right:0;width:100%;height:auto;margin-bottom: 10px;}
+	.block-offer .offer-product img{width:100%;height:auto;}
+	.block-offer .offer-addtocart{float:none;}
+	.block-offer .offer-addtocart .action{width:100%;}
+	.block-offer .offer-addtocart .offer-price{text-align: center;}
+	.block-offer .offer-addtocart .btn-addtocart{width:100%;margin-top: 10px;}
+
+	/*
+	BLOCK-POPIN
+	*/
+	.block-popin{left:5%;top:50%;margin-left:auto;margin-top:-150px;height:300px;width:90%;background-color:#fff;}
+}
